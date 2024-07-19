@@ -1,4 +1,4 @@
-# extended-data-for-machine-learning
+
 Scripts from the manuscript S. Chen, et al. Foreign Li-ion supply reshapes Li-oriented material discovery and lifetime limit of batteries.
 
 ·Script for the generation of the machine learning.
